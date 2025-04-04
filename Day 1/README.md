@@ -18,3 +18,6 @@
 
 Make sure you phone verify your Kaggle account before starting, it's necessary for the codelabs.
 Want to have an interactive conversation? Try adding the whitepapers to NotebookLM. 
+
+### Day 1 Livestream
+- [ ] [Day 1 Livestream](https://www.youtube.com/watch?v=WpIfAeCIFc0&list=PLqFaTIg4myu-lbBTrUpoQQIzZZxvrOaP5&index=1)
