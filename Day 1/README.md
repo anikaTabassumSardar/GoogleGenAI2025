@@ -7,14 +7,14 @@
 
 ## 2. Complete Unit 1 – “Prompt Engineering”:
 
-Listen to the summary podcast episode for this unit.
+- [x] Listen to the [summary podcast episode](https://www.youtube.com/watch?v=CFtX0ZyLSAY&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=3) for this unit.
 
+- [ ] To complement the podcast, read the [“Prompt Engineering”](https://drive.google.com/file/u/0/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view) whitepaper.
 
-To complement the podcast, read the “Prompt Engineering” whitepaper.
+### Complete these codelabs on Kaggle:
+- [ ] Prompting fundamentals
 
+- [ ] Evaluation and structured data
 
-Complete these codelabs on Kaggle:
-Prompting fundamentals
-Evaluation and structured data
 Make sure you phone verify your Kaggle account before starting, it's necessary for the codelabs.
 Want to have an interactive conversation? Try adding the whitepapers to NotebookLM. 
