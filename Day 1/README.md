@@ -12,9 +12,9 @@
 - [ ] To complement the podcast, read the [“Prompt Engineering”](https://drive.google.com/file/u/0/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view) whitepaper.
 
 ### Complete these codelabs on Kaggle:
-- [ ] Prompting fundamentals
+- [x] Prompting fundamentals
 
-- [ ] Evaluation and structured data
+- [x] Evaluation and structured data
 
 Make sure you phone verify your Kaggle account before starting, it's necessary for the codelabs.
 Want to have an interactive conversation? Try adding the whitepapers to NotebookLM. 
