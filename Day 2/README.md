@@ -7,7 +7,7 @@
 
 ### Complete these codelabs on Kaggle:
 - [x] Build a RAG question-answering system over custom documents.
-- [ ] Explore text similarity with embeddings.
+- [x] Explore text similarity with embeddings.
 - [ ] Build a neural classification network with Keras using embeddings.
 
 ### Day 2 Livestream
