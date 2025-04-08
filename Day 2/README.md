@@ -11,4 +11,4 @@
 - [x] [Build](https://www.kaggle.com/code/markishere/day-2-classifying-embeddings-with-keras) a neural classification network with Keras using embeddings.
 
 ### Day 2 Livestream
-- [ ] [Day 2 Livestream](https://www.youtube.com/live/AjpjCHdIINU)
+- [x] [Day 2 Livestream](https://www.youtube.com/live/AjpjCHdIINU)
