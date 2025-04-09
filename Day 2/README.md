@@ -1,4 +1,5 @@
 # Day 2
+
 ## Complete Unit 2: “Embeddings and Vector Stores/ Databases”:
 
 - [x] Listen to the [summary podcast episode](https://www.youtube.com/watch?v=CFtX0ZyLSAY&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=2) for this unit.
