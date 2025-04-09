@@ -6,8 +6,8 @@
 
 
 ### Complete these codelabs on Kaggle:
-- [ ] Talk to a database with function calling.
-- [ ] Build an agentic ordering system in LangGraph.
+- [ ] [Talk](https://www.kaggle.com/code/markishere/day-3-function-calling-with-the-gemini-api) to a database with function calling.
+- [ ] [Build](https://www.kaggle.com/code/markishere/day-3-building-an-agent-with-langgraph/) an agentic ordering system in LangGraph.
 
 ## 2. (Optional) Advanced 3b - “Agents Companion”:
 
