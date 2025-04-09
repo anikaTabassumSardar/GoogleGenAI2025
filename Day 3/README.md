@@ -7,7 +7,7 @@
 
 ### Complete these codelabs on Kaggle:
 - [x] [Talk](https://www.kaggle.com/code/markishere/day-3-function-calling-with-the-gemini-api) to a database with function calling.
-- [ ] [Build](https://www.kaggle.com/code/markishere/day-3-building-an-agent-with-langgraph/) an agentic ordering system in LangGraph.
+- [x] [Build](https://www.kaggle.com/code/markishere/day-3-building-an-agent-with-langgraph/) an agentic ordering system in LangGraph.
 
 ## 2. (Optional) Advanced 3b - “Agents Companion”:
 
@@ -15,4 +15,4 @@
 - [x] Read the advanced [“Agents Companion”](https://drive.google.com/file/d/122-SqEJIcOREYtiKFWSsH5IXUYhBVVkD/view) whitepaper.
 
 ### Day 3 Livestream
-- [] [Day 3 Livestream](https://www.youtube.com/live/g6MVIEzFTjY)
+- [x] [Day 3 Livestream](https://www.youtube.com/live/g6MVIEzFTjY)
