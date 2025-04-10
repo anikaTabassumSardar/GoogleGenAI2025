@@ -10,4 +10,4 @@
 - [x] [Use](https://www.kaggle.com/code/markishere/day-4-google-search-grounding) Google Search data in generation
 
 ### Day 4 Livestream
-- [] [Day 4 Livestream](https://www.youtube.com/live/AN2tpHi26OE)
+- [x] [Day 4 Livestream](https://www.youtube.com/live/AN2tpHi26OE)
